@@ -107,7 +107,8 @@ class CaptureCalculator{
 			}
 		}
 		
-		//output	
+		//output
+		System.out.println();	
 		System.out.println("Player " + id + " who is on the " + list + " list,");
 		System.out.println("noticed the monster at time " + Tn + ",");
 		System.out.println("is " + roundedD + " m away from the monster,");
